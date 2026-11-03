@@ -1,6 +1,6 @@
 # 🛡️ ResQNet — Intelligent Hazard Detection & Alert System
 
-ResQNet (powered by KavachAI) is a hyper-localized disaster risk assessment and automated multilingual alert platform designed to protect transit commuters, outdoor workers, and civilians. By combining real-time weather telemetries, geospatial routing, heat-stress indices (WBGT), and Meta's WhatsApp API with Google Gemini LLMs and Google Text-to-Speech (gTTS), ResQNet automatically synthesizes and dispatches actionable audio advisories in 12 Indian regional languages during critical hazard events.
+ResQNet is a hyper-localized disaster risk assessment and automated multilingual alert platform designed to protect transit commuters, outdoor workers, and civilians. By combining real-time weather telemetries, geospatial routing, heat-stress indices (WBGT), and Meta's WhatsApp API with Google Gemini LLMs and Google Text-to-Speech (gTTS), ResQNet automatically synthesizes and dispatches actionable audio advisories in 12 Indian regional languages during critical hazard events.
 
 ---
 
